@@ -31,8 +31,8 @@ A comprehensive data analysis pipeline to clean, transform, and visualize birth-
 
 ## Clone the repository:
    ```bash
-   git clone https://github.com/your-username/birth-weight-analysis.git
-   cd birth-weight-analysis
+   git clone git@github.com:MalexSw/Birth_rate_statistics_project.git
+   cd Birth_rate_statistics_project/src
    pip install -r requirements.txt
    python main.py
    ```
