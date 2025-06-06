@@ -12,7 +12,7 @@ A comprehensive data analysis pipeline to clean, transform, and visualize birth-
   **Hypothesies proving**: Prove statistic theorems, create the conclusion and visualise.
 - **Normalization**: Log-transform to stabilize variance.
 - **Statistical Summary**: Compare data before and after cleaning.
-- 🎛**Interactive CLI**: Choose reports and generate plots with an easy interface.
+- **Interactive CLI**: Choose reports and generate plots with an easy interface.
 - **CLT Application**: Prepare data for valid statistical inference.
 
 ---
