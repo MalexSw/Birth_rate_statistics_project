@@ -31,6 +31,10 @@ A comprehensive data analysis pipeline to clean, transform, and visualize birth-
 
 ## Clone the repository:
    ``` clone github repository ```
+   
    ``` cd Birth_rate_statistics_project/src ```
+   
    ``` pip install -r requirements.txt ```
+   
    ``` python main.py ```
+   
